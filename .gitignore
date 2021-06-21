@@ -113,3 +113,5 @@ Thumbs.db
 .env
 
 backend/node_modules
+frontend/node_modules
+frontend/yarn.lock
